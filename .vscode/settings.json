@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Monster Chase Learning Project.sln"
+    "dotnet.defaultSolution": "UnityLearningProject-2DGame.sln"
 }
